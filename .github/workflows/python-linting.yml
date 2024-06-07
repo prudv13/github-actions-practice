@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Super-Linter
-        uses: super-linter/super-linter@v6.6.0
+        uses: super-linter/super-linter@v5.4.0
